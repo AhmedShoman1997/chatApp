@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>548696838707-qrp0vssvl9eh6h1m71p6f5ncs7qj0s52.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.548696838707-qrp0vssvl9eh6h1m71p6f5ncs7qj0s52</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsQwb4si4dMPXHGmKiFQF-VgEgiDkDivY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>548696838707</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MockSolution.VarsKeyChat</string>
+	<key>PROJECT_ID</key>
+	<string>varskeychat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>varskeychat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:548696838707:ios:9b140a14ffa7bd96da4946</string>
+	<key>DATABASE_URL</key>
+	<string>https://varskeychat.firebaseio.com</string>
+</dict>
+</plist>

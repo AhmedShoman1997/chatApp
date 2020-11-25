@@ -1,0 +1,6 @@
+framework module Pods_VarsKeyChat {
+  umbrella header "Pods-VarsKeyChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
